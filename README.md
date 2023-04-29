@@ -5,6 +5,8 @@ LabData brain-computer interface
 
 Обзор нейроинтерфейса EasyEEG https://labdata.ru/news/easyeeg-bci
 
+Пример получения данных с устройства смотрите в файле EasyBCI_LSL_recive.py
+
 Программа для ПК
 
 # версия 1.0b
