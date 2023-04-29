@@ -1,4 +1,4 @@
-# EasyEEG_BCI
+## EasyEEG_BCI
 LabData brain-computer interface
 
 Страница проекта https://labdata.ru/project/easyeeg_project
@@ -7,7 +7,14 @@ LabData brain-computer interface
 
 Программа для ПК
 
-версия 0.0a
+# версия 1.0b
+
+Windows https://www.dropbox.com/s/ag5dv3c3kozduou/EasyEEG_BCI_100b.exe?dl=0
+
+Linux https://www.dropbox.com/s/tgb8ponckw0djw0/EasyEEG_BCI_100b?dl=0
+
+
+# версия 0.0a
 
 Windows https://www.dropbox.com/s/trxjl37eypg8op5/EasyEEG_BCI_v00a_win.zip?dl=0
 
