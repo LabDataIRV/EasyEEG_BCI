@@ -7,9 +7,9 @@ LabData brain-computer interface
 
 Пример получения данных с устройства смотрите в файле EasyBCI_LSL_recive.py
 
-Программа для ПК
+# Программа для ПК
 
-# версия 1.2b
+## версия 1.2b
 
 Windows https://www.dropbox.com/scl/fi/f0x943tla2n1nhpbuo0e9/EasyEEG_BCI_v12b_win64.zip?rlkey=pzxe72mr0v9nd5fdtuilqrx7w&dl=0
 
@@ -18,7 +18,7 @@ Linux https://www.dropbox.com/scl/fi/n6ies7edlvg3k0enhck0x/EasyEEG_BCI_v12b_linu
 Исправления, вошедшие в данный релиз:
 1. Исправление пропуска столбца времени в запись частотных диапазонов
    
-# версия 1.0b
+## версия 1.0b
 
 Windows https://www.dropbox.com/s/ag5dv3c3kozduou/EasyEEG_BCI_100b.exe?dl=0
 
@@ -38,7 +38,7 @@ Linux https://www.dropbox.com/s/tgb8ponckw0djw0/EasyEEG_BCI_100b?dl=0
 11. Добавление передачи данных через LSL
 12. Добавление сохранения частотных диапазонов в файл
 
-# версия 0.0a
+## версия 0.0a
 
 Windows https://www.dropbox.com/s/trxjl37eypg8op5/EasyEEG_BCI_v00a_win.zip?dl=0
 
