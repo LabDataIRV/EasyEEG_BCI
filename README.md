@@ -17,7 +17,7 @@ Linux https://www.dropbox.com/scl/fi/n6ies7edlvg3k0enhck0x/EasyEEG_BCI_v12b_linu
 
 Исправления, вошедшие в данный релиз:
 1. Исправление пропуска столбца времени в запись частотных диапазонов
-2. 
+   
 # версия 1.0b
 
 Windows https://www.dropbox.com/s/ag5dv3c3kozduou/EasyEEG_BCI_100b.exe?dl=0
