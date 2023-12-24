@@ -11,18 +11,18 @@ LabData brain-computer interface
 
 ## версия 1.2b
 
-Windows https://www.dropbox.com/scl/fi/f0x943tla2n1nhpbuo0e9/EasyEEG_BCI_v12b_win64.zip?rlkey=pzxe72mr0v9nd5fdtuilqrx7w&dl=0
+[Windows x64](https://www.dropbox.com/scl/fi/2tv0l7xn5vmd1r1m6364q/EasyEEG_BCI_v12b_win64.zip?rlkey=neye4mulpv6xtaym7quazdxwa&dl=0) 
 
-Linux https://www.dropbox.com/scl/fi/n6ies7edlvg3k0enhck0x/EasyEEG_BCI_v12b_linux64.zip?rlkey=ubajs2p8evbolvufznqjjlale&dl=0
+[Linux x64](https://www.dropbox.com/scl/fi/n6ies7edlvg3k0enhck0x/EasyEEG_BCI_v12b_linux64.zip?rlkey=ubajs2p8evbolvufznqjjlale&dl=0) 
 
 Исправления, вошедшие в данный релиз:
 1. Исправление пропуска столбца времени в запись частотных диапазонов
    
 ## версия 1.0b
 
-Windows https://www.dropbox.com/s/ag5dv3c3kozduou/EasyEEG_BCI_100b.exe?dl=0
+[Windows x64](https://www.dropbox.com/s/ag5dv3c3kozduou/EasyEEG_BCI_100b.exe?dl=0)
 
-Linux https://www.dropbox.com/s/tgb8ponckw0djw0/EasyEEG_BCI_100b?dl=0
+[Linux x64](https://www.dropbox.com/s/tgb8ponckw0djw0/EasyEEG_BCI_100b?dl=0)
 
 Исправления, вошедшие в данный релиз:
 1. Добавлена функция отключения фильтров
@@ -40,6 +40,6 @@ Linux https://www.dropbox.com/s/tgb8ponckw0djw0/EasyEEG_BCI_100b?dl=0
 
 ## версия 0.0a
 
-Windows https://www.dropbox.com/s/trxjl37eypg8op5/EasyEEG_BCI_v00a_win.zip?dl=0
+[Windows x64](https://www.dropbox.com/s/trxjl37eypg8op5/EasyEEG_BCI_v00a_win.zip?dl=0)
 
-Linux https://www.dropbox.com/s/rs5n1t0aadqs976/EasyEEG_BCI_v00a_linux.zip?dl=0
+[Linux x64](https://www.dropbox.com/s/rs5n1t0aadqs976/EasyEEG_BCI_v00a_linux.zip?dl=0)
