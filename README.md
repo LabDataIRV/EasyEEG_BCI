@@ -1,13 +1,28 @@
 ## EasyEEG_BCI
 LabData brain-computer interface
 
-Страница проекта https://labdata.ru/project/easyeeg_project
+Страница проекта [Нейроинтерфейс EasyEEG BCI](https://labdata.ru/project/easyeeg-bci-project)
 
 Обзор нейроинтерфейса EasyEEG https://labdata.ru/news/easyeeg-bci
 
 Пример получения данных с устройства смотрите в файле EasyBCI_LSL_recive.py
 
+[Библиотека LSL для Linux](https://www.dropbox.com/scl/fi/rfwt666hstcqp9zwt12r0/liblsl-1.16.1-jammy_amd64.deb?rlkey=bu1ie9kw79p4s9b6z5u1fo956&dl=0) (Debian дистрибутивы)
+
 # Программа для ПК
+
+## версия 1.3b
+
+[Windows x64](https://www.dropbox.com/scl/fi/fuzy3b0b5ixx3hmbpfqb3/EasyEEG_BCI_13b_win64.zip?rlkey=gjpz3iyzpmnrldffi5to7cq4t&dl=0) 
+
+[Linux x64](https://www.dropbox.com/scl/fi/3rddho1yh9axoeipel3oi/EasyEEG_BCI_v13b_linux64.zip?rlkey=yitynu1vtjm1vyqrtmbdkhscr&dl=0) 
+
+Исправления, вошедшие в данный релиз:
+1. Увеличение диапазона спектральных параметров в отчете
+2. Настройка диапазона спектра
+3. Изменение шкалы уровня сигнала
+4. Автоматический поиск порта
+5. Отработка ошибок подключения к устройству
 
 ## версия 1.2b
 
