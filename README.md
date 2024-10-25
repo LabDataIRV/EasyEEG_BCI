@@ -7,9 +7,34 @@ LabData brain-computer interface
 
 Пример получения данных с устройства смотрите в файле EasyBCI_LSL_recive.py
 
-[Библиотека LSL для Linux](https://www.dropbox.com/scl/fi/rfwt666hstcqp9zwt12r0/liblsl-1.16.1-jammy_amd64.deb?rlkey=bu1ie9kw79p4s9b6z5u1fo956&dl=0) (Debian дистрибутивы)
+[Библиотека LSL для Linux](https://www.dropbox.com/scl/fi/rfwt666hstcqp9zwt12r0/liblsl-1.16.1-jammy_amd64.deb?rlkey=bu1ie9kw79p4s9b6z5u1fo956&dl=0) (Debian дистрибутивы) Примечание: LSL поддерживается только версиями до 2.0!
 
 # Программа для ПК
+
+## версия 2.0b
+
+[Windows x64](https://www.dropbox.com/scl/fi/slv7nfrhrtb5hprqo7jrg/EasyEEG_BCI_v20b_win64.zip?rlkey=ccba9s9xcigm1kumcs3laxhqj&st=zq3idgw5&dl=0) 
+
+[Linux x64](https://www.dropbox.com/scl/fi/t685fwqinu2hl96s8ng54/EasyEEG_BCI_v20b_linux64.zip?rlkey=z6nzw7xpzc89bn0gorkft7nv1&st=0cdb0hzs&dl=0) 
+
+Исправления, вошедшие в данный релиз:
+Переход на обмен данными по широковещательному UDP протоколу. (LSL больше не поддерживается).
+Передача кроме ЭЭГ, также частотных диапазонов в JSON
+payload = {
+        'd':int,
+        'E':float,
+        'd1':int,
+        't1':int,
+        't2':int,
+        'a1':int,
+        'a2':int,
+        'b1': int,
+        'b2': int,
+        'b3': int,
+        'g1': int
+        }
+Ускорение реакции индикатора уровня сигнала
+Небольшие исправления алгоритма спектральной обработки
 
 ## версия 1.3b
 
