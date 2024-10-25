@@ -18,6 +18,7 @@ LabData brain-computer interface
 [Linux x64](https://www.dropbox.com/scl/fi/t685fwqinu2hl96s8ng54/EasyEEG_BCI_v20b_linux64.zip?rlkey=z6nzw7xpzc89bn0gorkft7nv1&st=0cdb0hzs&dl=0) 
 
 + пример получения данных с приложения udp_recever.py
+  
 Исправления, вошедшие в данный релиз:
 1. Переход на обмен данными по широковещательному UDP протоколу. (LSL больше не поддерживается).
 2. Передача кроме ЭЭГ, также частотных диапазонов в JSON
