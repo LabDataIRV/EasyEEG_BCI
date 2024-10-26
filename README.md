@@ -5,7 +5,9 @@ LabData brain-computer interface
 
 Обзор нейроинтерфейса EasyEEG https://labdata.ru/news/easyeeg-bci
 
-Пример получения данных с устройства смотрите в файле EasyBCI_LSL_recive.py
+Пример получения данных с приложения смотрите в файле udp_recever.py (доступно с версии 2.0)
+
+Пример получения данных с устройства смотрите в файле EasyBCI_LSL_recive.py (доступно до версии 2.0)
 
 [Библиотека LSL для Linux](https://www.dropbox.com/scl/fi/rfwt666hstcqp9zwt12r0/liblsl-1.16.1-jammy_amd64.deb?rlkey=bu1ie9kw79p4s9b6z5u1fo956&dl=0) (Debian дистрибутивы) Примечание: LSL поддерживается только версиями до 2.0!
 
@@ -16,8 +18,6 @@ LabData brain-computer interface
 [Windows x64](https://www.dropbox.com/scl/fi/slv7nfrhrtb5hprqo7jrg/EasyEEG_BCI_v20b_win64.zip?rlkey=ccba9s9xcigm1kumcs3laxhqj&st=zq3idgw5&dl=0) 
 
 [Linux x64](https://www.dropbox.com/scl/fi/t685fwqinu2hl96s8ng54/EasyEEG_BCI_v20b_linux64.zip?rlkey=z6nzw7xpzc89bn0gorkft7nv1&st=0cdb0hzs&dl=0) 
-
-+ пример получения данных с приложения udp_recever.py
   
 Исправления, вошедшие в данный релиз:
 1. Переход на обмен данными по широковещательному UDP протоколу. (LSL больше не поддерживается).
