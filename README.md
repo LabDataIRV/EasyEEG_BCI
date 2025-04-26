@@ -13,6 +13,18 @@ LabData brain-computer interface
 
 # Программа для ПК
 
+## версия 3.0
+
+[Windows x64](https://cloud.mail.ru/public/ixis/WsuA4533B) 
+
+[Linux x64](https://cloud.mail.ru/public/HgWb/F15g7LJhG) 
+  
+Исправления, вошедшие в данный релиз:
+1. Изменение визуализации спектра в форме гистограмм
+2. Поддержка аппаратнной версии  LDEEG BCI
+3. Вывод в UDP и в файл зависит от выбора режима спектра (диапазоны, спектр и т.п.)
+4. Сохранение последних настроек
+
 ## версия 2.0b
 
 [Windows x64](https://www.dropbox.com/scl/fi/slv7nfrhrtb5hprqo7jrg/EasyEEG_BCI_v20b_win64.zip?rlkey=ccba9s9xcigm1kumcs3laxhqj&st=zq3idgw5&dl=0) 
