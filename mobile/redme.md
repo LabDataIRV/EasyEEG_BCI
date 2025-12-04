@@ -2,7 +2,7 @@
 Для смартфонов и планшетов на OC Android
 
 ## Версии:
-**v.0 - EasyEEB-BCI-9.apk**
+**v.0** - [EasyEEB-BCI-9.apk](https://cloud.mail.ru/public/vik9/PRjEKBS9T)
 
 Возможности:
 - Получение ЭЭГ с устройств EasyEEG BCI
